@@ -1,0 +1,20 @@
+Selects*from*among*the*process*in*ready*queue*and*alocates*the*CPU*one*of*them? 1.short-term*scheduler 2.medium-term*scheduler 3.long-term*scheduler 4.CPU*switch
+1
+A*form*of*scheduling*in*which*processes*are*involuntarily*moved*from*the*running*state? 1.preemptive*scheduling 2.non*preemptive*scheduling 3.all*of*them 4.none
+1
+One*of*the*scheduling*criteria? 1.dispatsher*module 2.throughput 3.convoy*effect 4.none 
+2
+Shortest*job*first*used*in? 1.medium-term*scheduler 2.long-term*scheduler 3.CPU*switch 4.short-term*scheduler
+2
+Keep*the*CPU*as*busy*as*possible*busy*as*possible? 1.waiting*time 2.response*time 3.turnaround*time 4.CPU*utilization
+4
+Amount*of*time*a*process*has*been*wating*in*the*ready*queue? 1.waiting*time 2.response*time 3.turnaround*time 4.none
+1
+One*of*them*is*a*problem*of*priority*scheduling? 1.there*is*no*problem 2.convoy*effect 3.Unknown‏*the*next*CPU*burst 4.starvation
+4
+FCFS*scheduling*has? 1.low*CPU*overhead 2.high*CPU*overhead 3.high*response*time 4.low*turn*arround*time 
+1
+Which*scheduling*has*permanent*queue*assignment*problem? 1.feedback*queue*scheduling 2.multilevel*queue*scheduling 3.FCFS*scheduling 4.priority*scheduling
+2
+Equal*priority*processes*are*scheduled*by? 1.SJF 2.round*robin 3.FCFS 4.none
+3
